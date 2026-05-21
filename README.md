@@ -38,9 +38,9 @@
 *На проверку направить файл crontab и скриншот с результатом работы утилиты.*
 
 
-файл скрипта (backup_hw.sh)
+[файл скрипта](backup_hw.sh)
 
-файл планировщика (crontav.txt)
+[файл планировщика](crontav.txt)
 
 скрин лога
 ![log](https://github.com/DefAKAAlex/HW-Backup/blob/main/IMG/l4.png)
