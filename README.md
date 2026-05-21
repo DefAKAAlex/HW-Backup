@@ -40,7 +40,7 @@
 
 [файл скрипта](backup_hw.sh)
 
-[файл планировщика](crontav.txt)
+[файл планировщика](crontab.txt)
 
 скрин лога
 ![log](https://github.com/DefAKAAlex/HW-Backup/blob/main/IMG/l4.png)
